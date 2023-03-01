@@ -7,3 +7,5 @@ The majority of my work is in R and Python, with additional focus in SQL. The ma
 involves regression and classificaion. Specific methods include linear regression, KNN, KMeans, Decision Trees, 
 Random Forest, and Naïve Bayes. Techniques include feature selection, model correction, imbalanced classification, 
 and model assesment.
+
+# Table of Contents
