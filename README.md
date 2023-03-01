@@ -42,6 +42,7 @@ and model assesment.
 **Description**:  
 
 ### Total Vote Percentage Prediction
+**Methods**:  
 **Code**:  
 **Description**:  
 
