@@ -29,18 +29,18 @@ and model assesment.
 **Description**:
 
 ## Housing Prices Prediction
-**Code**: 
-**Description**:
+**Code**:  
+**Description**:  
 
 ## Time Series of Births
-**Code**: 
-**Description**:
+**Code**:  
+**Description**:  
 
 ## Experimental Wheat Seed Type Prediction
-**Code**: 
-**Description**:
+**Code**:  
+**Description**:  
 
 ## Total Vote Percentage Prediction
-**Code**: 
-**Description**:
+**Code**:  
+**Description**:  
 
