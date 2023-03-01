@@ -11,3 +11,6 @@ Random Forest, and Naïve Bayes. Techniques include feature selection, model cor
 and model assesment.
 
 # Table of Contents
+Python
+- Coronary Heart Disease Prediction
+- Housing Prices Prediction
