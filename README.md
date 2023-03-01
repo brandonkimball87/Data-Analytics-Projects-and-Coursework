@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville (May 2023 graduation).
+Hi, my name is Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville (May 2023 graduation).
 I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
 
 The majority of my work is in R and Python, with additional focus in SQL. The major focus of projects and course work
