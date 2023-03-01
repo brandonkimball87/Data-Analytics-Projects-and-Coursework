@@ -11,36 +11,36 @@ Random Forest, and Naïve Bayes. Techniques include feature selection, model cor
 and model assesment.
 
 ## Table of Contents
-Python
+**Python**
 - Coronary Heart Disease Prediction
 - Housing Prices Prediction
 - Time Series of Births
 - Experimental Wheat Seed Type Prediction
 - Total Vote Percentage Prediction
 
-R
+**R**
 -  example
 -  example
 -  example
 
 
 ## Coronary Heart Disease Prediction
-Code:
-Description:
+**Code**:
+**Description**:
 
 ## Housing Prices Prediction
-Code:
-Description:
+**Code**:
+**Description**:
 
 ## Time Series of Births
-Code:
-Description:
+**Code**:
+**Description**:
 
 ## Experimental Wheat Seed Type Prediction
-Code:
-Description:
+**Code**:
+**Description**:
 
 ## Total Vote Percentage Prediction
-Code:
-Description:
+**Code**:
+**Description**:
 
