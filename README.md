@@ -22,11 +22,12 @@ and model assesment.
 -  Stroke Prediction
 -  Breast Cancer Prediction
 -  Car Prices Prediction
+-  Donations Prediction
 
 
 ## Coronary Heart Disease Prediction
 **Code**:  
-**Description**:
+**Description**:  
 
 ## Housing Prices Prediction
 **Code**:  
@@ -44,3 +45,22 @@ and model assesment.
 **Code**:  
 **Description**:  
 
+
+## Stroke Prediction
+**Code**:  
+**Description**:  
+
+
+## Breast Cancer Prediction
+**Code**:  
+**Description**:  
+
+
+## Car Prices Prediction
+**Code**:  
+**Description**:  
+
+
+## Donations Prediction
+**Code**:  
+**Description**:  
