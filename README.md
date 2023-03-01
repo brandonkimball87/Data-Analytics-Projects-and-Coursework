@@ -19,9 +19,9 @@ and model assesment.
 - Total Vote Percentage Prediction
 
 **R**
--  example
--  example
--  example
+-  Stroke Prediction
+-  Breast Cancer Prediction
+-  Car Prices Prediction
 
 
 ## Coronary Heart Disease Prediction
