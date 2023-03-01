@@ -25,42 +25,42 @@ and model assesment.
 -  Donations Prediction
 
 
-## Coronary Heart Disease Prediction
+### Coronary Heart Disease Prediction
 **Code**:  
 **Description**:  
 
-## Housing Prices Prediction
+### Housing Prices Prediction
 **Code**:  
 **Description**:  
 
-## Time Series of Births
+### Time Series of Births
 **Code**:  
 **Description**:  
 
-## Experimental Wheat Seed Type Prediction
+### Experimental Wheat Seed Type Prediction
 **Code**:  
 **Description**:  
 
-## Total Vote Percentage Prediction
-**Code**:  
-**Description**:  
-
-
-## Stroke Prediction
+### Total Vote Percentage Prediction
 **Code**:  
 **Description**:  
 
 
-## Breast Cancer Prediction
+### Stroke Prediction
 **Code**:  
 **Description**:  
 
 
-## Car Prices Prediction
+### Breast Cancer Prediction
 **Code**:  
 **Description**:  
 
 
-## Donations Prediction
+### Car Prices Prediction
+**Code**:  
+**Description**:  
+
+
+### Donations Prediction
 **Code**:  
 **Description**:  
