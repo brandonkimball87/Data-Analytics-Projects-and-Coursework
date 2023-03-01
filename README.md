@@ -26,14 +26,14 @@ and model assesment.
 
 
 ### Coronary Heart Disease Prediction
-**Skills**:  
-**Code**:  
-**Description**:  
+**Skills**: Python, 
+  **Code**:  
+  **Description**:  
 
 ### Housing Prices Prediction
-**Skills**:  
-**Code**:  
-**Description**:  
+**Skills**:
+  **Code**:  
+  **Description**:    
 
 ### Time Series Ananysis of Births
 **Skills**:  
