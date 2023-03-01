@@ -14,7 +14,7 @@ and model assesment.
 **Python**
 - Coronary Heart Disease Prediction
 - Housing Prices Prediction
-- Time Series of Births
+- Time Series Analysis of Births
 - Experimental Wheat Seed Type Prediction
 - Total Vote Percentage Prediction
 
@@ -35,7 +35,7 @@ and model assesment.
 **Code**:  
 **Description**:  
 
-### Time Series of Births
+### Time Series Ananysis of Births
 **Skills**:  
 **Code**:  
 **Description**:  
