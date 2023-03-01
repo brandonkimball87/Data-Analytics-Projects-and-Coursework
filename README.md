@@ -25,7 +25,7 @@ and model assesment.
 
 
 ## Coronary Heart Disease Prediction
-**Code**: 
+**Code**:   
 **Description**:
 
 ## Housing Prices Prediction
