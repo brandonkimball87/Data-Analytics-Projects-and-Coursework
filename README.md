@@ -14,3 +14,6 @@ and model assesment.
 Python
 - Coronary Heart Disease Prediction
 - Housing Prices Prediction
+
+R
+-  example
