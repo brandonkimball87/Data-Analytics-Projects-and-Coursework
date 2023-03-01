@@ -1,6 +1,6 @@
-## Data-Analytics-Projects-and-Coursework
+# Data-Analytics-Projects-and-Coursework
 
-# About
+## About
 
 Hi, I'm Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville.
 I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
@@ -10,7 +10,7 @@ involves regression and classificaion. Specific methods include linear regressio
 Random Forest, and Naïve Bayes. Techniques include feature selection, model correction, imbalanced classification, 
 and model assesment.
 
-# Table of Contents
+## Table of Contents
 Python
 - Coronary Heart Disease Prediction
 - Housing Prices Prediction
@@ -24,23 +24,23 @@ R
 -  example
 
 
-# Coronary Heart Disease Prediction
+## Coronary Heart Disease Prediction
 Code:
 Description:
 
-# Housing Prices Prediction
+## Housing Prices Prediction
 Code:
 Description:
 
-# Time Series of Births
+## Time Series of Births
 Code:
 Description:
 
-# Experimental Wheat Seed Type Prediction
+## Experimental Wheat Seed Type Prediction
 Code:
 Description:
 
-# Total Vote Percentage Prediction
+## Total Vote Percentage Prediction
 Code:
 Description:
 
