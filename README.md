@@ -26,38 +26,45 @@ and model assesment.
 
 
 ### Coronary Heart Disease Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
 ### Housing Prices Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
 ### Time Series of Births
+**Skills**:  
 **Code**:  
 **Description**:  
 
 ### Experimental Wheat Seed Type Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
 ### Total Vote Percentage Prediction
-**Methods**:  
+**Skills**:  
 **Code**:  
 **Description**:  
 
 
 ### Stroke Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
 
 ### Breast Cancer Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
 
 ### Car Prices Prediction
+**Skills**:  
 **Code**:  
 **Description**:  
 
