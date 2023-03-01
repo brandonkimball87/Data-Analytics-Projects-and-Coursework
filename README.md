@@ -14,6 +14,33 @@ and model assesment.
 Python
 - Coronary Heart Disease Prediction
 - Housing Prices Prediction
+- Time Series of Births
+- Experimental Wheat Seed Type Prediction
+- Total Vote Percentage Prediction
 
 R
 -  example
+-  example
+-  example
+
+
+# Coronary Heart Disease Prediction
+Code:
+Description:
+
+# Housing Prices Prediction
+Code:
+Description:
+
+# Time Series of Births
+Code:
+Description:
+
+# Experimental Wheat Seed Type Prediction
+Code:
+Description:
+
+# Total Vote Percentage Prediction
+Code:
+Description:
+
