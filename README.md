@@ -25,23 +25,22 @@ and model assesment.
 
 
 ## Coronary Heart Disease Prediction
-**Code**:
-
+**Code**: 
 **Description**:
 
 ## Housing Prices Prediction
-**Code**:
+**Code**: 
 **Description**:
 
 ## Time Series of Births
-**Code**:
+**Code**: 
 **Description**:
 
 ## Experimental Wheat Seed Type Prediction
-**Code**:
+**Code**: 
 **Description**:
 
 ## Total Vote Percentage Prediction
-**Code**:
+**Code**: 
 **Description**:
 
