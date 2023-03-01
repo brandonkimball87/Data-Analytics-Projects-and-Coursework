@@ -1,4 +1,6 @@
-# Data-Analytics-Projects-and-Coursework
+## Data-Analytics-Projects-and-Coursework
+
+# About
 
 Hi, I'm Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville.
 I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
