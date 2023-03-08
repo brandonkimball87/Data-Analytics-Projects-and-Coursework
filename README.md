@@ -39,29 +39,38 @@ and model assessment.
 
 ### Time Series Analysis of Births
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)  
 **Description**:  
 
 ### Experimental Wheat Seed Type Prediction
 **Skills**:  
-**Code**:  
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
 
 ### Total Vote Percentage Prediction
 **Skills**:  
-**Code**:  
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
 
+### Total Vote and Bankruptcy Prediction
+**Skills**:  
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Description**:  
+
+### Loan Default Prediction
+**Skills**:  
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Description**:  
 
 ### Stroke Prediction
 **Skills**:  
-**Code**:  
+**Code**:    
 **Description**:  
 
 
 ### Breast Cancer Prediction
 **Skills**:  
-**Code**:  
+**Code**:   
 **Description**:  
 
 
