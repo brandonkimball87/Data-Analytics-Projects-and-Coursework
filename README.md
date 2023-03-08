@@ -29,12 +29,12 @@ and model assessment.
 
 ### Coronary Heart Disease Prediction
 **Skills**:  
-**Code**:[Coronary Heart Disease Prediction](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
+**Code**: [Coronary Heart Disease Prediction](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
 **Description**:  
 
 ### Housing Prices Prediction
 **Skills**:  
-**Code**:  
+**Code**: [Housing Prices Prediction](./Python%20Projects/Housing%20Prices%20Prediction.ipynb)  
 **Description**:    
 
 ### Time Series Analysis of Births
