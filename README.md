@@ -28,7 +28,8 @@ and model assesment.
 
 
 ### Coronary Heart Disease Prediction
-**Skills**: Basic Logistic Regression, Multiple Stochastic Regression Based Imputation, Imbalanced Classification (Undersampling, Oversampling, Cost Sensitive Learning)  
+**Skills**: Basic Logistic Regression, Multiple Stochastic Regression Based Imputation, 
+Imbalanced Classification (Undersampling, Oversampling, Cost Sensitive Learning)  
 **Code**:  
 **Description**:  
 
