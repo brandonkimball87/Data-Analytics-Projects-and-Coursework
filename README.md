@@ -50,7 +50,7 @@ and model assessment.
 
 ### Total Vote Percentage Prediction
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Total%20Vote_Percentage_Prediction.ipynb)   
+**Code**: [Total_Vote_Percentage_Prediction.ipynb](./Python%20Projects/Total_Vote_Percentage_Prediction.ipynb)   
 **Description**:  
 
 ### Total Vote and Bankruptcy Prediction
