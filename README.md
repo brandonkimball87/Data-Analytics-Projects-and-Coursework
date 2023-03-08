@@ -30,6 +30,7 @@ and model assessment.
 -  [Stroke Prediction](#stroke-prediction)
 
 
+
 ## Python
 
 ### Coronary Heart Disease Prediction
@@ -67,6 +68,7 @@ and model assessment.
 **Skills**:  
 **Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
+
 
 ## R
 
