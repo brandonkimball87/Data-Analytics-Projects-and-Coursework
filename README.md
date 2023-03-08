@@ -44,7 +44,8 @@ and model assessment.
 
 ### Experimental Wheat Seed Type Prediction
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Code**: [KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb) 
+          [KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb) 
 **Description**:  
 
 ### Total Vote Percentage Prediction
