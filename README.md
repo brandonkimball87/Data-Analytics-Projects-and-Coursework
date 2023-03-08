@@ -12,11 +12,11 @@ and model assesment.
 
 ## Table of Contents
 **Python**
-- Coronary Heart Disease Prediction
-- Housing Prices Prediction
+- Logistic Regression- Coronary Heart Disease Prediction
+- Linear Regression- Housing Prices Prediction
 - Time Series Analysis of Births
-- Experimental Wheat Seed Type Prediction
-- Total Vote Percentage Prediction
+- KNN and KMeans- Experimental Wheat Seed Type Prediction
+- LASSO and Ridge Regression- Total Vote Percentage Prediction
 
 **R**
 -  Stroke Prediction
