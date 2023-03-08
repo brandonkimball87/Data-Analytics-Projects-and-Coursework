@@ -60,7 +60,7 @@ and model assessment.
 
 ### Loan Default Prediction
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
 
 ### Stroke Prediction
