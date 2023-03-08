@@ -21,10 +21,11 @@ and model assessment.
 - [Random Forest and Bagging- Loan Default Prediction](#loan-default-prediction)
 
 **R**
--  Stroke Prediction
--  Breast Cancer Prediction
--  Car Prices Prediction
--  Donations Prediction
+-  MIDTERM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-  [Donations Prediction](#donations-prediction)
+-  [Breast Cancer Prediction](#breast-cancer-prediction)
+-  [Car Prices Prediction](#car-prices-prediction)
+-  [Stroke Prediction](#stroke-prediction)
 
 
 ### Coronary Heart Disease Prediction
@@ -63,7 +64,13 @@ and model assessment.
 **Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
 
-### Stroke Prediction
+### MIDTERM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+**Skills**:  
+**Code**:    
+**Description**:  
+
+
+### Donations Prediction
 **Skills**:  
 **Code**:    
 **Description**:  
@@ -81,7 +88,7 @@ and model assessment.
 **Description**:  
 
 
-### Donations Prediction 
+### Stroke Prediction 
 **Skills**:  
 **Code**:  
 **Description**:  
