@@ -39,7 +39,7 @@ and model assessment.
 
 ### Time Series Analysis of Births
 **Skills**:  
-**Code**:  
+**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)
 **Description**:  
 
 ### Experimental Wheat Seed Type Prediction
