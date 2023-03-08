@@ -13,12 +13,12 @@ and model assessment.
 ## Table of Contents
 **Python**
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
-- Linear Regression- Housing Prices Prediction
-- Time Series Analysis of Births
-- KNN and KMeans- Experimental Wheat Seed Type Prediction
-- LASSO and Ridge Regression- Total Vote Percentage Prediction
-- Decision Tree- Bankruptcy and Voting Prediction
-- Random Forest and Bagging- Loan Default Prediction
+- [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
+- [Time Series Analysis of Births](#time-series-analysis-of-births)
+- [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
+- [LASSO and Ridge Regression- Total Vote Percentage Prediction](#total-vote-percentage-prediction)
+- [Decision Tree- Bankruptcy and Voting Prediction](#bankruptcy-and-voting-prediction)
+- [Random Forest and Bagging- Loan Default Prediction](#loan-default-prediction)
 
 **R**
 -  Stroke Prediction
@@ -55,7 +55,7 @@ and model assessment.
 
 ### Bankruptcy and Voting Prediction
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Code**: [Bankruptcy_and_Voting_Prediction.ipynb](./Python%20Projects/Bankruptcy_and_Voting_Prediction.ipynb)   
 **Description**:  
 
 ### Loan Default Prediction
