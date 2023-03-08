@@ -17,7 +17,7 @@ and model assessment.
 - Time Series Analysis of Births
 - KNN and KMeans- Experimental Wheat Seed Type Prediction
 - LASSO and Ridge Regression- Total Vote Percentage Prediction
-- Decision Tree- Total Vote and Bankruptcy Prediction
+- Decision Tree- Bankruptcy and Voting Prediction
 - Random Forest and Bagging- Loan Default Prediction
 
 **R**
@@ -53,7 +53,7 @@ and model assessment.
 **Code**: [Total_Vote_Percentage_Prediction.ipynb](./Python%20Projects/Total_Vote_Percentage_Prediction.ipynb)   
 **Description**:  
 
-### Total Vote and Bankruptcy Prediction
+### Bankruptcy and Voting Prediction
 **Skills**:  
 **Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
 **Description**:  
