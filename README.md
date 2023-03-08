@@ -17,7 +17,7 @@ and model assessment.
 - Time Series Analysis of Births
 - KNN and KMeans- Experimental Wheat Seed Type Prediction
 - LASSO and Ridge Regression- Total Vote Percentage Prediction
-- Decision Tree- Total Vote Prediction and Bankruptcy Prediction
+- Decision Tree- Total Vote and Bankruptcy Prediction
 - Random Forest and Bagging- Loan Default Prediction
 
 **R**
