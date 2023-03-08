@@ -66,7 +66,7 @@ and model assessment.
 
 ### MIDTERM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 **Skills**:  
-**Code**:    
+**Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!](./R%20Projects/Donations_Prediction.R)      
 **Description**:  
 
 
@@ -78,17 +78,17 @@ and model assessment.
 
 ### Breast Cancer Prediction
 **Skills**:  
-**Code**:   
+**Code**: [Breast_Cancer_Prediction.R](./R%20Projects/Breast_Cancer_Prediction.R)     
 **Description**:  
 
 
 ### Car Prices Prediction
 **Skills**:  
-**Code**:  
+**Code**: [Car_Prices_Prediction.R](./R%20Projects/Car_Prices_Prediction.R)    
 **Description**:  
 
 
 ### Stroke Prediction 
 **Skills**:  
-**Code**:  
+**Code**: [Stroke_Prediction.R](./R%20Projects/Stroke_Prediction.R)    
 **Description**:  
