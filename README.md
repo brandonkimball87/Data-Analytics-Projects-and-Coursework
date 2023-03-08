@@ -12,7 +12,7 @@ and model assessment.
 
 ## Table of Contents
 **Python**
-- Logistic Regression- [Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
+- [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - Linear Regression- Housing Prices Prediction
 - Time Series Analysis of Births
 - KNN and KMeans- Experimental Wheat Seed Type Prediction
