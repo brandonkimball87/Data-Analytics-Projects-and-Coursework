@@ -11,8 +11,8 @@ Random Forest, and Naïve Bayes. Techniques include feature selection, model cor
 and model assessment.
 
 ## Table of Contents
-[**About**](#about)
-**Python**
+[**About**](#about)  
+[**Python**](#python)  
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis of Births](#time-series-analysis-of-births)
@@ -21,7 +21,7 @@ and model assessment.
 - [Decision Tree- Bankruptcy and Voting Prediction](#bankruptcy-and-voting-prediction)
 - [Random Forest and Bagging- Loan Default Prediction](#loan-default-prediction)
 
-**R**
+[**R**](#r)  
 -  MIDTERM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -  [Donations Prediction](#donations-prediction)
 -  [Breast Cancer Prediction](#breast-cancer-prediction)
