@@ -72,6 +72,7 @@ Imbalanced Classification (Undersampling, Oversampling, Cost Sensitive Learning)
 **Description**:  
 
 
-### Donations Prediction
+### Donations Prediction 
+**Skills**:  
 **Code**:  
 **Description**:  
