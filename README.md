@@ -30,7 +30,7 @@ and model assessment.
 ### Coronary Heart Disease Prediction
 **Skills**: Basic Logistic Regression, Multiple Stochastic Regression Based Imputation, 
 Imbalanced Classification (Undersampling, Oversampling, Cost Sensitive Learning)  
-**Code**:[Coronary Heart Disease Prediction](./Python Projects/Coronary Heart Disease Prediction.ipynb)  
+**Code**:[Coronary Heart Disease Prediction](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
 **Description**:  
 
 ### Housing Prices Prediction
