@@ -72,7 +72,7 @@ and model assessment.
 
 ### Donations Prediction
 **Skills**:  
-**Code**:    
+**Code**: [Donations_Prediction.R](./R%20Projects/Donations_Prediction.R)  
 **Description**:  
 
 
