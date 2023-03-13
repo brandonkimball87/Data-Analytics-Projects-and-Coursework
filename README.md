@@ -27,7 +27,7 @@ and model assessment.
 -  [Donations Prediction](#donations-prediction)
 -  [Breast Cancer Prediction](#breast-cancer-prediction)
 -  [Car Prices Prediction](#car-prices-prediction)
--  [Stroke Prediction](#stroke-prediction)
+-  [Logistic Regression- Stroke Prediction](#stroke-prediction)
 
 
 
