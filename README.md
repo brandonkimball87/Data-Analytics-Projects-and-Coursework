@@ -66,7 +66,7 @@ and model assessment.
 
 ### Loan Default Prediction
 **Skills**:  
-**Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)   
+**Code**: [Loan_Default_Prediction.ipynb](./Python%20Projects/Loan_Default_Prediction.ipynb)   
 **Description**:  
 
 
