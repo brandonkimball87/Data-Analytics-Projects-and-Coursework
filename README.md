@@ -23,7 +23,7 @@ and model assessment.
 - [Random Forest and Bagging- Loan Default Prediction](#loan-default-prediction)
 
 [**R**](#r)  
--  MIDTERM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-  [Malicious Webpages Case Study](#malicious-webpages-case-study)
 -  [Donations Prediction](#donations-prediction)
 -  [Breast Cancer Prediction](#breast-cancer-prediction)
 -  [Car Prices Prediction](#car-prices-prediction)
@@ -72,9 +72,9 @@ and model assessment.
 
 ## R
 
-### Malicious Webpage Case Study
+### Malicious Webpages Case Study  
 **Skills**:  
-**Code**: [PLACEHOLDER!!!!!!!!!!!!!!!!!!!!](./R%20Projects/Donations_Prediction.R)      
+**Code**: [Malicious_Webpages_Case_Study.R](./R%20Projects/Malicious_Webpages_Case_Study.R)      
 **Description**:  
 
 
