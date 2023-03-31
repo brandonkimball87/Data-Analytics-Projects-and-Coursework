@@ -66,9 +66,7 @@ and model assessment.
 
 ### Ensemble Methods for Machine Learning
 **Skills**:  
-**Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb) 
-          [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)
-          [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)  
+**Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Bagging.ipynb](./Python%20Projects/Bagging.ipynb)  
 **Description**:  
 
 
