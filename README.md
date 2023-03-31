@@ -17,7 +17,7 @@ and model assessment.
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis of Births](#time-series-analysis-of-births)
-- [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
+- [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
@@ -48,7 +48,7 @@ and model assessment.
 **Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)  
 **Description**:  
 
-### Experimental Wheat Seed Type Prediction
+### Clustering: KNN and KMeans
 **Skills**:  
 **Code**: [KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb)  
