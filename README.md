@@ -55,14 +55,14 @@ and model assessment.
 **Description**:  
 
 ### Regularization: LASSO and Ridge
-**Skills**:  
-**Code**: [Total_Vote_Percentage_Prediction.ipynb](./Python%20Projects/Total_Vote_Percentage_Prediction.ipynb)   
-**Description**:  
+**Skills**:  LASSO, Ridge, lambda optimization  
+**Code**: [Regularization.ipynb](./Python%20Projects/Regularization.ipynb)   
+**Description**: This project uses regularization methods to predict the percentage of a state’s total counted vote that was for George Bush in the 2000 presidential election. The first method is LASSO variable selection (least absolute shrinkage and selection operator), which simultaneously estimates coefficients and preforms variable selection by adding a regularizer to the loss function. The second method is Ridge variable selection, which focuses  on multicollinearity, instead of feature selection. Both methods utilize a regularizer, called a lambda penalty, and my code shows how I preformed cross validation to hyper tune the lambda to its optimal value. This is how you find the balance between bias and variance, which prevents overfitting and creates an algorithm that can be applied to new, unseen data.    
 
 ### CART Based Analysis
 **Skills**: DecisionTreeRegressor, DecisionTreeClassifier, cost-complexity pruning, alpha optimization  
 **Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
-**Description**: Here I explore the use of a regression tree to predict the percentage of a state’s total counted vote that was for George Bush in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
+**Description**: Here I explore the use of a regression tree to predict total vote percentage in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
 ### Ensemble Methods for Machine Learning
 **Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
