@@ -50,8 +50,7 @@ and model assessment.
 
 ### Clustering: KNN and KMeans
 **Skills**:  
-**Code**: [KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb)  
+**Code**: [KNN.ipynb](./Python%20Projects/KNN.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[KMeans.ipynb](./Python%20Projects/KMeans.ipynb)  
 **Description**: Experimental_Wheat_Seed_Type_Prediction 
 
 ### Regularization: LASSO and Ridge
