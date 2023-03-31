@@ -65,7 +65,7 @@ and model assessment.
 **Description**:  
 
 ### Ensemble Methods for Machine Learning
-**Skills**:  
+**Skills**: Adaboost, Gradient Boosting   
 **Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Boosting.ipynb](./Python%20Projects/Boosting.ipynb)  
 **Description**:  
 
