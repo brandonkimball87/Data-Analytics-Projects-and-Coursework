@@ -66,7 +66,7 @@ and model assessment.
 
 ### Ensemble Methods for Machine Learning
 **Skills**:  
-**Code**: [Loan_Default_Prediction.ipynb](./Python%20Projects/Loan_Default_Prediction.ipynb)   
+**Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)   
 **Description**:  
 
 
