@@ -20,7 +20,7 @@ and model assessment.
 - [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
 - [LASSO and Ridge Regression- Total Vote Percentage Prediction](#total-vote-percentage-prediction)
 - [Decision Tree- Bankruptcy and Voting Prediction](#bankruptcy-and-voting-prediction)
-- [Random Forest and Bagging- Loan Default Prediction](#loan-default-prediction)
+- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
@@ -64,7 +64,7 @@ and model assessment.
 **Code**: [Bankruptcy_and_Voting_Prediction.ipynb](./Python%20Projects/Bankruptcy_and_Voting_Prediction.ipynb)   
 **Description**:  
 
-### Loan Default Prediction
+### Ensemble Methods for Machine Learning
 **Skills**:  
 **Code**: [Loan_Default_Prediction.ipynb](./Python%20Projects/Loan_Default_Prediction.ipynb)   
 **Description**:  
