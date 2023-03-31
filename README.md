@@ -52,7 +52,7 @@ and model assessment.
 **Skills**:  
 **Code**: [KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KNN_Experimental_Wheat_Seed_Type_Prediction.ipynb)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb)  
-**Description**:  
+**Description**: Experimental_Wheat_Seed_Type_Prediction 
 
 ### Regularization: LASSO and Ridge
 **Skills**:  LASSO, Ridge, lambda optimization  
