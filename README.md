@@ -18,7 +18,7 @@ and model assessment.
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis of Births](#time-series-analysis-of-births)
 - [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
-- [LASSO and Ridge Regression- Total Vote Percentage Prediction](#total-vote-percentage-prediction)
+- [Regularization: LASSO and Ridge](#regularization:-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 
@@ -54,7 +54,7 @@ and model assessment.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb](./Python%20Projects/KMeans_Experimental_Wheat_Seed_Type_Prediction.ipynb)  
 **Description**:  
 
-### Total Vote Percentage Prediction
+### Regularization: LASSO and Ridge
 **Skills**:  
 **Code**: [Total_Vote_Percentage_Prediction.ipynb](./Python%20Projects/Total_Vote_Percentage_Prediction.ipynb)   
 **Description**:  
