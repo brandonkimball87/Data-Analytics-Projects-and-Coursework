@@ -19,7 +19,7 @@ and model assessment.
 - [Time Series Analysis of Births](#time-series-analysis-of-births)
 - [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
 - [LASSO and Ridge Regression- Total Vote Percentage Prediction](#total-vote-percentage-prediction)
-- [Decision Tree- Bankruptcy and Voting Prediction](#bankruptcy-and-voting-prediction)
+- [CART Based Analysis](#cart-based-analysis)
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 
 [**R**](#r)  
@@ -59,8 +59,8 @@ and model assessment.
 **Code**: [Total_Vote_Percentage_Prediction.ipynb](./Python%20Projects/Total_Vote_Percentage_Prediction.ipynb)   
 **Description**:  
 
-### Bankruptcy and Voting Prediction
-**Skills**:  
+### CART Based Analysis
+**Skills**: Regression Tree, Classification Tree, Cost-complexity Pruning, alpha optimization
 **Code**: [Bankruptcy_and_Voting_Prediction.ipynb](./Python%20Projects/Bankruptcy_and_Voting_Prediction.ipynb)   
 **Description**:  
 
