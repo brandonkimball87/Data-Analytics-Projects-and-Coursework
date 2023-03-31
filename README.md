@@ -67,7 +67,7 @@ and model assessment.
 ### Ensemble Methods for Machine Learning
 **Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
 **Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Boosting.ipynb](./Python%20Projects/Boosting.ipynb)  
-**Description**:  
+**Description**: The three attached files explore different ensemble methods in machine learning. The first examines the use of bagging (bootstrap aggregation) to optimize a random forest algorithm. Various techniques to finetune the model include out of bag (OOB) prediction and max feature optimization. The second file explores multiple Boosting techniques to create a model which can most accurately predict bankruptcy. The first technique is Adaboost (adaptive boosting), which adjusts the weights of different weak learners based on misclassification. The second technique is Gradient Boosting, which repeatedly fits a new weak learner based on the errors of the previous weak learners. Both methods were hyper tuned using Cross Validation to find the optimal parameters, such as number of trees and learning rate.
 
 
 ## R
