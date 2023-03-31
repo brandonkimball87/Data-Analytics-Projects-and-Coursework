@@ -18,7 +18,7 @@ and model assessment.
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis of Births](#time-series-analysis-of-births)
 - [KNN and KMeans- Experimental Wheat Seed Type Prediction](#experimental-wheat-seed-type-prediction)
-- [Regularization: LASSO and Ridge](#regularization:-lasso-and-ridge)
+- [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 
