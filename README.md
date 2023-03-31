@@ -61,7 +61,7 @@ and model assessment.
 
 ### CART Based Analysis
 **Skills**: DecisionTreeRegressor, DecisionTreeClassifier, cost-complexity pruning, alpha optimization  
-**Code**: [Bankruptcy_and_Voting_Prediction.ipynb](./Python%20Projects/Bankruptcy_and_Voting_Prediction.ipynb)   
+**Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
 **Description**: Here I explore the use of a regression tree to predict the percentage of a state’s total counted vote that was for George Bush in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
 ### Ensemble Methods for Machine Learning
