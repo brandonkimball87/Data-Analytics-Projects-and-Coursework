@@ -16,7 +16,7 @@ and model assessment.
 [**Python**](#python)  
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
-- [Time Series Analysis of Births](#time-series-analysis-of-births)
+- [Time Series Analysis](#time-series-analysis)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
@@ -43,9 +43,9 @@ and model assessment.
 **Code**: [Housing_Prices_Prediction.ipynb](./Python%20Projects/Housing%20Prices%20Prediction.ipynb)  
 **Description**:    
 
-### Time Series Analysis of Births
+### Time Series Analysis
 **Skills**:  
-**Code**: [Time_Series_Analysis_of_Births.ipynb](./Python%20Projects/Time_Series_Analysis_of_Births.ipynb)  
+**Code**: [Time_Series_Analysis.ipynb](./Python%20Projects/Time_Series_Analysis.ipynb)  
 **Description**:  
 
 ### Clustering: KNN and KMeans
