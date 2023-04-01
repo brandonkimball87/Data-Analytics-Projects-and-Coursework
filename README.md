@@ -96,6 +96,6 @@ My semester long capstone project was to develop an algorithm which automates th
 
 
 ### Logistic Regression 
-**Skills**:  
-**Code**: [Stroke_Prediction.R](./R%20Projects/Stroke_Prediction.R)    
-**Description**:  
+**Skills**: logistic regression, ggplot, train/test split, feature significance  
+**Code**: [Logistic_Regression.R](./R%20Projects/Logistic_Regression.R)    
+**Description**: This homework assignment was to work with dataset that provides details about people who had strokes and build a logistic regression model which can predict who is at risk for a stroke. Specific methods in this assignment involved visualization via ggplot, training/testing split, and determining the specific features (risk factors in this case) which are significant in determining a stroke outcome.   
