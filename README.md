@@ -51,7 +51,7 @@ and model assessment. Each of the examples below contain a file and description 
 ### Clustering: KNN and KMeans
 **Skills**: KNN, KMeans, k hyperparameter tuning, elbow method heuristic, parametric vs non-parametric algorithms
 **Code**: [KNN.ipynb](./Python%20Projects/KNN.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[KMeans.ipynb](./Python%20Projects/KMeans.ipynb)  
-**Description**: The two clustering methods explored here include KNN and KMeans. The KNN file includes cross validation and training-testing validation to determine the optimal value of K for k-nearest neighbor. The KMeans file explores coordinate visulaizaion and the elbow method heuristic for determing the optimal value for K. Both methods are used to predict the type of wheat based on a set of geometric parameters of internal wheat kernel structure detected using a soft X-ray technique.
+**Description**: The two clustering methods explored here include KNN and KMeans. The KNN file includes cross validation and training-testing validation to determine the optimal value of K for k-nearest neighbor. The KMeans file explores coordinate visualization and the elbow method heuristic for determining the optimal value for K. Both methods are used to predict the type of wheat based on a set of geometric parameters of internal wheat kernel structure detected using a soft X-ray technique.
 
 ### Regularization: LASSO and Ridge
 **Skills**:  LASSO, Ridge, lambda optimization  
