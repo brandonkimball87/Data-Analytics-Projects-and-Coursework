@@ -90,9 +90,9 @@ My semester long capstone project was to develop an algorithm which automates th
 
 
 ### Random Forest and Naive Bayes
-**Skills**:  
+**Skills**: Random Forest, Decision Tree and Naive Bayes classifiers/regresors  
 **Code**: [rf_and_nb.R](./R%20Projects/rf_and_nb.R)    
-**Description**:  
+**Description**: The first half of the assignment was to apply a naive Bayes classifier, decision tree classifier, and random forest classifier to create an algorithm for predicting breast cancer in patients. The second half of the assignment was to apply a naive Bayes regressor, decision tree regressor, and random forest regressor to create an algorithm for predicting car prices one year in the future.   
 
 
 ### Logistic Regression 
