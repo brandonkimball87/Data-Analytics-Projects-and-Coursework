@@ -11,13 +11,13 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 [**About**](#about)
 
 [**Python**](#python)  
-- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
-- [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
-- [Time Series Analysis](#time-series-analysis)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
+- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
+- [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
+- [Time Series Analysis](#time-series-analysis)
 
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
@@ -36,21 +36,6 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 **Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Boosting.ipynb](./Python%20Projects/Boosting.ipynb)  
 **Description**: The three attached files explore different ensemble methods in machine learning. The first examines the use of bagging (bootstrap aggregation) to optimize a random forest algorithm. Various techniques to finetune the model include out of bag (OOB) prediction and max feature optimization. The second file explores multiple Boosting techniques to create a model which can most accurately predict bankruptcy. The first technique is Adaboost (adaptive boosting), which adjusts the weights of different weak learners based on misclassification. The second technique is Gradient Boosting, which repeatedly fits a new weak learner based on the errors of the previous weak learners. Both methods were hyper tuned using Cross Validation to find the optimal parameters, such as number of trees and learning rate.
 
-### Coronary Heart Disease Prediction
-**Skills**:  
-**Code**: [Coronary_Heart_Disease_Prediction.ipynb](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
-**Description**:  
-
-### Housing Prices Prediction
-**Skills**:  
-**Code**: [Housing_Prices_Prediction.ipynb](./Python%20Projects/Housing%20Prices%20Prediction.ipynb)  
-**Description**:    
-
-### Time Series Analysis
-**Skills**: ARMA model, AR/MA term hyper tuning, QQ and ACF/PCF plots     
-**Code**: [Time_Series_Analysis.ipynb](./Python%20Projects/Time_Series_Analysis.ipynb)  
-**Description**: The task for this project was to make a prediction for the number of daily female births in CA for the next 30 days. The first step was to construct ACF and PCF plots to determine the most appropriate ARMA model. This was followed by training the model and explaining the significance for each of the AR/MA terms included. Diagnostic checks were conducted by creating and exploring the sequence plot, histogram plot, Q-Q plot, and ACF plot of the residuals. After hyper tuning the model by adding an additional AR term or MA term, the final model was used for prediction. 
-
 ### Clustering: KNN and KMeans
 **Skills**: KNN, KMeans, k hyperparameter tuning, elbow method heuristic, parametric vs non-parametric algorithms
 **Code**: [KNN.ipynb](./Python%20Projects/KNN.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[KMeans.ipynb](./Python%20Projects/KMeans.ipynb)  
@@ -66,6 +51,20 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 **Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
 **Description**: Here I explore the use of a regression tree to predict total vote percentage in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
+### Coronary Heart Disease Prediction
+**Skills**:  
+**Code**: [Coronary_Heart_Disease_Prediction.ipynb](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
+**Description**:  
+
+### Housing Prices Prediction
+**Skills**:  
+**Code**: [Housing_Prices_Prediction.ipynb](./Python%20Projects/Housing%20Prices%20Prediction.ipynb)  
+**Description**: 
+
+### Time Series Analysis
+**Skills**: ARMA model, AR/MA term hyper tuning, QQ and ACF/PCF plots     
+**Code**: [Time_Series_Analysis.ipynb](./Python%20Projects/Time_Series_Analysis.ipynb)  
+**Description**: The task for this project was to make a prediction for the number of daily female births in CA for the next 30 days. The first step was to construct ACF and PCF plots to determine the most appropriate ARMA model. This was followed by training the model and explaining the significance for each of the AR/MA terms included. Diagnostic checks were conducted by creating and exploring the sequence plot, histogram plot, Q-Q plot, and ACF plot of the residuals. After hyper tuning the model by adding an additional AR term or MA term, the final model was used for prediction. 
 
 
 ## R
