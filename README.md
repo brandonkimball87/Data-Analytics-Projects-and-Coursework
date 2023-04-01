@@ -11,13 +11,13 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 [**About**](#about)
 
 [**Python**](#python)  
+- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis](#time-series-analysis)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
-- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
@@ -29,6 +29,12 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 
 
 ## Python
+
+
+### Ensemble Methods for Machine Learning
+**Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
+**Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Boosting.ipynb](./Python%20Projects/Boosting.ipynb)  
+**Description**: The three attached files explore different ensemble methods in machine learning. The first examines the use of bagging (bootstrap aggregation) to optimize a random forest algorithm. Various techniques to finetune the model include out of bag (OOB) prediction and max feature optimization. The second file explores multiple Boosting techniques to create a model which can most accurately predict bankruptcy. The first technique is Adaboost (adaptive boosting), which adjusts the weights of different weak learners based on misclassification. The second technique is Gradient Boosting, which repeatedly fits a new weak learner based on the errors of the previous weak learners. Both methods were hyper tuned using Cross Validation to find the optimal parameters, such as number of trees and learning rate.
 
 ### Coronary Heart Disease Prediction
 **Skills**:  
@@ -60,10 +66,6 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 **Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
 **Description**: Here I explore the use of a regression tree to predict total vote percentage in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
-### Ensemble Methods for Machine Learning
-**Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
-**Code**: [Bagging.ipynb](./Python%20Projects/Bagging.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[Boosting.ipynb](./Python%20Projects/Boosting.ipynb)  
-**Description**: The three attached files explore different ensemble methods in machine learning. The first examines the use of bagging (bootstrap aggregation) to optimize a random forest algorithm. Various techniques to finetune the model include out of bag (OOB) prediction and max feature optimization. The second file explores multiple Boosting techniques to create a model which can most accurately predict bankruptcy. The first technique is Adaboost (adaptive boosting), which adjusts the weights of different weak learners based on misclassification. The second technique is Gradient Boosting, which repeatedly fits a new weak learner based on the errors of the previous weak learners. Both methods were hyper tuned using Cross Validation to find the optimal parameters, such as number of trees and learning rate.
 
 
 ## R
