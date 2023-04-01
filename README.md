@@ -7,6 +7,8 @@ I have two undergraduate degrees (BS in Biology and BA in Psychology) from The U
 
 The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involves predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes and various ensemble methods. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
 
+My semester long capstone project was to develop an algorithm which automates the creation of capability matrices based on incoming requirement documents for a leading company in the defense industry. This project was done using Python and includes machine learning and natural language methods such as Doc2Vec, NLTK, cosine similarity, and bag of words. Ultimately, this capstone project was an incredible learning experience where I could apply the knowledge and skills gained throughout my master's program to develop a practical solution for a real-world problem.   
+
 ## Table of Contents
 [**About**](#about)
 
