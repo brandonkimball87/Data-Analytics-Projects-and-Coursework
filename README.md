@@ -15,7 +15,7 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
-- [Logistic Regression](#logistic-regression)  
+- [Imbalanced Classification](#imbalanced-classification)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis](#time-series-analysis)
 
@@ -51,10 +51,10 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 **Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
 **Description**: Here I explore the use of a regression tree to predict total vote percentage in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
-### Logistic Regression
-**Skills**:  
-**Code**: [Logistic_Regression.ipynb](./Python%20Projects/Logistic_Regression.ipynb)    
-**Description**:  
+### Imbalanced Classification
+**Skills**: Oversampling, Undersampling, Cost Sensitive Learning, Multiple Stochastic Regression Based Imputation
+**Code**: [Imbalanced Classification.ipynb](./Python%20Projects/Imbalanced_Classification.ipynb)    
+**Description**: The goal of this project was to predict if a patient will have coronary heart disease in the future. Becuase only 15% of the training set had a disease outcome, extra work has to be done to ensure this minority class has a proper representation when building the model. The first two methods were simply oversampling the minority class to the same level as the majority and undersampling the majority class to the same level as the minority class. The other two methods, cost sensitive learning and multiple stochastic regression based imputation, involve more complicated algorithms to handle the imbalanced classification. Metrics to examine model preformance include precision, recall, F1, and AUC  
 
 ### Housing Prices Prediction
 **Skills**:  
