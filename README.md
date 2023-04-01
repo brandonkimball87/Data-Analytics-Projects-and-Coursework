@@ -11,12 +11,12 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 [**About**](#about)
 
 [**Python**](#python)  
-- [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
+- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
-- [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
+- [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis](#time-series-analysis)
 
 [**R**](#r)  
