@@ -15,7 +15,7 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
 - [CART Based Analysis](#cart-based-analysis)
-- [Logistic Regression- Coronary Heart Disease Prediction](#coronary-heart-disease-prediction)  
+- [Logistic Regression](#logistic-regression)  
 - [Linear Regression- Housing Prices Prediction](#housing-prices-prediction)
 - [Time Series Analysis](#time-series-analysis)
 
@@ -51,9 +51,9 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 **Code**: [CART.ipynb](./Python%20Projects/CART.ipynb)   
 **Description**: Here I explore the use of a regression tree to predict total vote percentage in the 2000 presidential election. Also, a classification tree is used to predict bankruptcy using 10 predictors. Cost-complexity pruning was applied to both models in order to reduce variance. Specifically, cross validation was used to determine the optimal alpha, which is the penalty applied in order to prevent overfitting.   
 
-### Coronary Heart Disease Prediction
+### Logistic Regression
 **Skills**:  
-**Code**: [Coronary_Heart_Disease_Prediction.ipynb](./Python%20Projects/Coronary%20Heart%20Disease%20Prediction.ipynb)    
+**Code**: [Logistic_Regression.ipynb](./Python%20Projects/Logistic_Regression.ipynb)    
 **Description**:  
 
 ### Housing Prices Prediction
