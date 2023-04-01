@@ -23,10 +23,10 @@ My semester long capstone project was to develop an algorithm which automates th
 
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
+-  [Clustering](#clustering)
 -  [Donations Prediction](#donations-prediction)
--  [Breast Cancer Prediction](#breast-cancer-prediction)
--  [Car Prices Prediction](#car-prices-prediction)
--  [Logistic Regression- Stroke Prediction](#stroke-prediction)
+-  [Random Forest and Naive Bayes](#random-forest-and-naive-bayes)
+-  [Logistic Regression](#logistic-regression)
 
 
 
@@ -77,15 +77,15 @@ My semester long capstone project was to develop an algorithm which automates th
 **Description**: The goal of this exam was to create an algorithm which can predict the status of a new website for a private security organization based on 36,623 training data observations. The overall process started with handling the missing data and observing trends using ggplot. Random Forest and naive bayes models were trained for each modification to the data set (adding new features, feature selection, and imbalanced classification on the independent variable). Finally, hyperparameter tuning helped create the final model recommendation. The assignment also factored in that from a business perspective, the worst outcome is predicting that a website is good, but in actuality, the website is bad. This required adjusting the algorithm to reduce the number of false positives and finding the proper balance between overall accuracy and precision.     
 
 
-### Donations Prediction
-**Skills**:  
-**Code**: [Donations_Prediction.R](./R%20Projects/Donations_Prediction.R)  
-**Description**:  
-
-
 ### Clustering
 **Skills**:  
 **Code**: [Breast_Cancer_Prediction.R](./R%20Projects/Breast_Cancer_Prediction.R)     
+**Description**:  
+
+
+### Donations Prediction
+**Skills**:  
+**Code**: [Donations_Prediction.R](./R%20Projects/Donations_Prediction.R)  
 **Description**:  
 
 
@@ -95,7 +95,7 @@ My semester long capstone project was to develop an algorithm which automates th
 **Description**:  
 
 
-### Stroke Prediction 
+### Logistic Regression 
 **Skills**:  
 **Code**: [Stroke_Prediction.R](./R%20Projects/Stroke_Prediction.R)    
 **Description**:  
