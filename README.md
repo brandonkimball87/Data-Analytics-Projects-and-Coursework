@@ -24,7 +24,7 @@ My semester long capstone project was to develop an algorithm which automates th
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
 -  [Clustering](#clustering)
--  [Donations Prediction](#donations-prediction)
+-  [Input Engineering](#input-engineering)
 -  [Random Forest and Naive Bayes](#random-forest-and-naive-bayes)
 -  [Logistic Regression](#logistic-regression)
 
@@ -83,10 +83,10 @@ My semester long capstone project was to develop an algorithm which automates th
 **Description**:  
 
 
-### Donations Prediction
-**Skills**:  
-**Code**: [Donations_Prediction.R](./R%20Projects/Donations_Prediction.R)  
-**Description**:  
+### Input Engineering
+**Skills**: Feature Selection, Adding New Features, Class Imbalance, Missing Data, Hyperparameter Tuning    
+**Code**: [Input_Engineering.R](./R%20Projects/Input_Engineering.R)  
+**Description**:  The attached file shows the five feature engineering techniques used on datasets and predictive algorithms. The data set was about election donations and the goal was to predict if an individual would attend the campaign event in 2023. The first method is missing data imputation, including forward fill, backward fill and column mean/mode. Next is creating new columns and features. Some popular methods used here were one hot encoding and binning values, but also this was a chance to practice exploring the data, using creativity and applying domain knowledge to create new features which could improve prediction accuracy. After the new features were created, feature selection methods (backward recursive feature elimination and selection by filtering) picked out the significant columns that would be included in the final model. Next was dealing with imbalanced classification from the "event attendance" independent variable (upSample and downSample functions). Finally, the last step was to hyper tune parameters (laplace and usekernal for naive bayes and mtry, min.node.size, and splitrule for random forest) and run a 5 fold cross validation 50 times to create a final model recommendation.     
 
 
 ### Random Forest and Naive Bayes
