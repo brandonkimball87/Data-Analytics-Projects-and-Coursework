@@ -72,7 +72,7 @@ My semester long capstone project was to develop an algorithm which automates th
 ## R
 
 ### Malicious Webpages Case Study  
-**Skills**:  
+**Skills**: randomForest, feature selection, Naive Bayes, imbalanced classification, hyperparameter tuning, missing data, ggplot   
 **Code**: [Malicious_Webpages_Case_Study.R](./R%20Projects/Malicious_Webpages_Case_Study.R)      
 **Description**:  
 
