@@ -44,9 +44,9 @@ and model assessment. Each of the examples below contain a file and description 
 **Description**:    
 
 ### Time Series Analysis
-**Skills**:  
+**Skills**: ARMA model, AR/MA term hyper tuning, QQ and ACF/PCF plots     
 **Code**: [Time_Series_Analysis.ipynb](./Python%20Projects/Time_Series_Analysis.ipynb)  
-**Description**:  
+**Description**: The task for this project was to make a prediction for the number of daily female births in CA for the next 30 days. The first step was to construct ACF and PCF plots to determine the most appropriate ARMA model. This was followed by training the model and explaining the significance for each of the AR/MA terms included. Diagnostic checks were conducted by creating and exploring the sequence plot, histogram plot, Q-Q plot, and ACF plot of the residuals. After hyper tuning the model by adding an additional AR term or MA term, the final model was used for prediction. 
 
 ### Clustering: KNN and KMeans
 **Skills**: KNN, KMeans, k hyperparameter tuning, elbow method heuristic, parametric vs non-parametric algorithms
