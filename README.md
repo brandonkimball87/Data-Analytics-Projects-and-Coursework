@@ -23,7 +23,7 @@ My semester long capstone project was to develop an algorithm which automates th
 
 [**R**](#r)  
 -  [Malicious Webpages Case Study](#malicious-webpages-case-study)
--  [Clustering](#clustering)
+-  [Clustering: KMeans and DBSCAN](#clustering-kmeans-and-dbscan)
 -  [Input Engineering](#input-engineering)
 -  [Random Forest and Naive Bayes](#random-forest-and-naive-bayes)
 -  [Logistic Regression](#logistic-regression)
@@ -77,7 +77,7 @@ My semester long capstone project was to develop an algorithm which automates th
 **Description**: The goal of this exam was to create an algorithm which can predict the status of a new website for a private security organization based on 36,623 training data observations. The overall process started with handling the missing data and observing trends using ggplot. Random Forest and naive bayes models were trained for each modification to the data set (adding new features, feature selection, and imbalanced classification on the independent variable). Finally, hyperparameter tuning helped create the final model recommendation. The assignment also factored in that from a business perspective, the worst outcome is predicting that a website is good, but in actuality, the website is bad. This required adjusting the algorithm to reduce the number of false positives and finding the proper balance between overall accuracy and precision.     
 
 
-### Clustering
+### Clustering: KMeans and DBSCAN
 **Skills**: KMeans, DBSCAN, Silhouette score, Cluster labeling  
 **Code**: [Clustering.R](./R%20Projects/Clustering.R)     
 **Description**: The dataset used in this assignment was a list of candy bars and their nutrition values. The purpose was to apply unsupervised learning methods to group the candy bars and then use visualizations to name each cluster. The two algorithms were KMeans and DBSCAN (density based clustering), and silhouette scoring was used to quantify each model's performance.    
