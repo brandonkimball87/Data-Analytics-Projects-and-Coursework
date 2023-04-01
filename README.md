@@ -54,12 +54,12 @@ The majority of my work is in R and Python, in addition to SQL. The major focus 
 ### Imbalanced Classification
 **Skills**: Oversampling, Undersampling, Cost Sensitive Learning, Multiple Stochastic Regression Based Imputation  
 **Code**: [Imbalanced Classification.ipynb](./Python%20Projects/Imbalanced_Classification.ipynb)    
-**Description**: The goal of this project was to predict if a patient will have coronary heart disease in the future. Becuase only 15% of the training set had a disease outcome, extra work has to be done to ensure this minority class has a proper representation when building the model. The first two methods were simply oversampling the minority class to the same level as the majority and undersampling the majority class to the same level as the minority class. The other two methods, cost sensitive learning and multiple stochastic regression based imputation, involve more complicated algorithms to handle the imbalanced classification. Metrics to examine model preformance include precision, recall, F1, and AUC  
+**Description**: The goal of this project was to predict if a patient will have coronary heart disease in the future. Because only 15% of the training set had a disease outcome, extra work has to be done to ensure this minority class has a proper representation when building the model. The first two methods were simply oversampling the minority class to the same level as the majority and undersampling the majority class to the same level as the minority class. The other two methods, cost sensitive learning and multiple stochastic regression based imputation, involve more complicated algorithms to handle the imbalanced classification. Metrics to examine model performance include precision, recall, F1, and AUC.  
 
 ### Linear Regression
-**Skills**:  
+**Skills**: Model diagnostics, correction, and assesment, Feature selection, Outliers and leverage, Missing data   
 **Code**: [Linear_Regression.ipynb](./Python%20Projects/Linear_Regression.ipynb)  
-**Description**: 
+**Description**: This was the final exam/project for a semester long course on python based data analytics. The goal was to predict housing prices based on certain factors such as house location, number of bedrooms, furnished, nearness to main road, etc. After adding dummy variables and handling missing data, matplotlib.pyplot was used to visualize the data. The independent variable then transformed using a third degree polynomial, log and Box Cox transformation. Residual plots were exaimined to detrmine the optimal transformation. Forward, backward and best subset selection techniques were used for feature selection. Finally, cross validation and training testing validation was preformed to estimate the generalization performance of the algorithm.   
 
 ### Time Series Analysis
 **Skills**: ARMA model, AR/MA term hyper tuning, QQ and ACF/PCF plots     
