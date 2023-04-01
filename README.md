@@ -5,10 +5,7 @@
 Hi, my name is Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville (May 2023 graduation).
 I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
 
-The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework
-involves predictive analytics and machine learning. Specific methods include linear regression, KNN, KMeans, Decision Trees, 
-Random Forest, and Naïve Bayes. Techniques include feature selection, model correction, imbalanced classification, 
-and model assessment. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
+The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involves predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes and various ensemble methods. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
 
 ## Table of Contents
 [**About**](#about)
