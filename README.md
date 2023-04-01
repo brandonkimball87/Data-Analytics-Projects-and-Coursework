@@ -78,9 +78,9 @@ My semester long capstone project was to develop an algorithm which automates th
 
 
 ### Clustering
-**Skills**:  
-**Code**: [Breast_Cancer_Prediction.R](./R%20Projects/Breast_Cancer_Prediction.R)     
-**Description**:  
+**Skills**: KMeans, DBSCAN, Silhouette score, Cluster labeling  
+**Code**: [Clustering.R](./R%20Projects/Clustering.R)     
+**Description**: The dataset used in this assignment was a list of candy bars and their nutrition values. The purpose was to apply unsupervised learning methods to group the candy bars and then use visualizations to name each cluster. The two algorithms were KMeans and DBSCAN (density based clustering), and silhouette scoring was used to quantify each model's performance.    
 
 
 ### Input Engineering
