@@ -83,15 +83,15 @@ My semester long capstone project was to develop an algorithm which automates th
 **Description**:  
 
 
-### Breast Cancer Prediction
+### Clustering
 **Skills**:  
 **Code**: [Breast_Cancer_Prediction.R](./R%20Projects/Breast_Cancer_Prediction.R)     
 **Description**:  
 
 
-### Car Prices Prediction
+### Random Forest and Naive Bayes
 **Skills**:  
-**Code**: [Car_Prices_Prediction.R](./R%20Projects/Car_Prices_Prediction.R)    
+**Code**: [rf_and_nb.R](./R%20Projects/rf_and_nb.R)    
 **Description**:  
 
 
