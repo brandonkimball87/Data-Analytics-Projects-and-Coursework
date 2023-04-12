@@ -79,9 +79,9 @@ My semester long capstone project was to develop an algorithm which automates th
 
 
 ### Text Mining  
-**Skills**:    
+**Skills**: sentiment analysis, tokenization, stop words, topic modeling, term document matrix, latent dirichlet allocation, word cloud     
 **Code**: [text_mining.R](./R%20Projects/text_mining.R)      
-**Description**: The goal of this exam was to create an algorithm which can predict the status of a new website for a private security organization based on 36,623 training data observations. The overall process started with handling the missing data and observing trends using ggplot. Random Forest and naive bayes models were trained for each modification to the data set (adding new features, feature selection, and imbalanced classification on the independent variable). Finally, hyperparameter tuning helped create the final model recommendation. The assignment also factored in that from a business perspective, the worst outcome is predicting that a website is good, but in actuality, the website is bad. This required adjusting the algorithm to reduce the number of false positives and finding the proper balance between overall accuracy and precision.   
+**Description**: This project analyzed the State of the Union addresses by various presidents throughout history. Pre-processing of data included tokenization and stop word removal. Sentiment analysis was then performed on each of George Washington’s State of the Union addresses using the AFINN and bing sentiment dictionary. This found the most positive and negative speech from the 8 he gave. The ncr sentiment dictionary was also used to find the single most positive and negative speech from every president's State of the Union. A term document matrix and latent dirichlet allocation model was made based on these speeches. This led to the creation of 5 unique groups, each based on a specific topic. A word cloud was then made based on the 500, 100, and 10 most common words in all of Abraham Lincoln’s State of the Union addresses.        
 
 
 ### Clustering: KMeans and DBSCAN
