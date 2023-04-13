@@ -5,7 +5,7 @@
 Hi, my name is Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville (May 2023 graduation).
 I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
 
-The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involves predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes, various ensemble methods and text mining. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
+The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involves predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes, SVM, various ensemble methods and text mining. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
 
 My semester long capstone project was to develop an algorithm which automates the creation of capability matrices based on incoming requirement documents for a leading company in the defense industry. This project was done using Python and includes machine learning and natural language methods such as Doc2Vec, NLTK, cosine similarity, and bag of words. Ultimately, this capstone project was an incredible learning experience where I could apply the knowledge and skills gained throughout my master's program to develop a practical solution for a real-world problem.   
 
@@ -16,6 +16,7 @@ My semester long capstone project was to develop an algorithm which automates th
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
+- [SVM](#svm)
 - [CART Based Analysis](#cart-based-analysis)
 - [Imbalanced Classification](#imbalanced-classification)  
 - [Linear Regression](#linear-regression)
@@ -48,6 +49,11 @@ My semester long capstone project was to develop an algorithm which automates th
 **Skills**:  LASSO, Ridge, lambda optimization  
 **Code**: [Regularization.ipynb](./Python%20Projects/Regularization.ipynb)   
 **Description**: This project uses regularization methods to predict the percentage of a state’s total counted vote that was for George Bush in the 2000 presidential election. The first method is LASSO variable selection (least absolute shrinkage and selection operator), which simultaneously estimates coefficients and preforms variable selection by adding a regularizer to the loss function. The second method is Ridge variable selection, which focuses  on multicollinearity, instead of feature selection. Both methods utilize a regularizer, called a lambda penalty, and my code shows how I preformed cross validation to hyper tune the lambda to its optimal value. This is how you find the balance between bias and variance, which prevents overfitting and creates an algorithm that can be applied to new, unseen data.    
+
+### SVM
+**Skills**: support vector machine, kernel functions, C hyper parameter tuning  
+**Code**: [SVM.ipynb](./Python%20Projects/SVM.ipynb)   
+**Description**: Utilizing SVM, the goal of this project was to predict if a banknote was real or fake. Multiple models were built which explored the various kernel functions (sbf, linear, polynomial) and hyper tuning the C regularization parameter to find the balance between accuracy and margin maximization. Cross validation techniques led to a final SVM algorithm which had an overall prediction accuracy on the test set of 100% .         
 
 ### CART Based Analysis
 **Skills**: DecisionTreeRegressor, DecisionTreeClassifier, cost-complexity pruning, alpha optimization  
