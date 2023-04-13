@@ -16,7 +16,7 @@ My semester long capstone project was to develop an algorithm which automates th
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
-- [SVM](#svm)
+- [Support Vector Machine](#support-vector-machine)
 - [CART Based Analysis](#cart-based-analysis)
 - [Imbalanced Classification](#imbalanced-classification)  
 - [Linear Regression](#linear-regression)
@@ -50,7 +50,7 @@ My semester long capstone project was to develop an algorithm which automates th
 **Code**: [Regularization.ipynb](./Python%20Projects/Regularization.ipynb)   
 **Description**: This project uses regularization methods to predict the percentage of a state’s total counted vote that was for George Bush in the 2000 presidential election. The first method is LASSO variable selection (least absolute shrinkage and selection operator), which simultaneously estimates coefficients and preforms variable selection by adding a regularizer to the loss function. The second method is Ridge variable selection, which focuses  on multicollinearity, instead of feature selection. Both methods utilize a regularizer, called a lambda penalty, and my code shows how I preformed cross validation to hyper tune the lambda to its optimal value. This is how you find the balance between bias and variance, which prevents overfitting and creates an algorithm that can be applied to new, unseen data.    
 
-### SVM
+### Support Vector Machine
 **Skills**: support vector machine, kernel functions, C hyper parameter tuning  
 **Code**: [SVM.ipynb](./Python%20Projects/SVM.ipynb)   
 **Description**: Utilizing SVM, the goal of this project was to predict if a banknote was real or fake. Multiple models were built which explored the various kernel functions (sbf, linear, polynomial) and hyper tuning the C regularization parameter to find the balance between accuracy and margin maximization. Cross validation techniques led to a final SVM algorithm which had an overall prediction accuracy on the test set of 100% .         
