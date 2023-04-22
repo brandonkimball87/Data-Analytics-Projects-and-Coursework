@@ -38,7 +38,7 @@ My semester long capstone project was to develop an algorithm which automates th
 ### Natural Language Processing
 **Skills**: Doc2Vec, NLTK, cosine similarity, bag of words   
 **Code**: [natural_language_processing.ipynb](./Python%20Projects/natural_language_processing.ipynb)   
-**Description**: This is a modified version of the code for the natural language processing capstone project. This version compares scientific articles (focusing on a specific aspect of the kidney) to general kidney physiology statements. This provides a good example of the flexibility that natural language processing provides; from creating capability matrices for large businesses to analyzing the insights of renal studies in the scientific field.      
+**Description**: This is a modified version of the code for the natural language processing capstone project. This version compares scientific articles (focusing on a specific aspect of the kidney) to 8 general kidney physiology statements. Each article is broken down into individual paragraphs and common stop words are removed to provide more precise results. For each of the 8 general statement, the resulting top 5 most similar paragraphs, cosine similarity scores, and document names are provided and outputted to the Google Drive as a CSV. This provides a good example of the domain flexibility that natural language processing provides; from creating capability matrices for large businesses to analyzing the insights of renal studies in the scientific field.      
 
 ### Ensemble Methods for Machine Learning
 **Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
