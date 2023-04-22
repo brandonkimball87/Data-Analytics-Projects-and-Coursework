@@ -13,6 +13,7 @@ My semester long capstone project was to develop an algorithm which automates th
 [**About**](#about)
 
 [**Python**](#python)  
+- [Natural Language Processing](#natural-language-processing)
 - [Ensemble Methods for Machine Learning](#ensemble-methods-for-machine-learning)
 - [Clustering: KNN and KMeans](#clustering-knn-and-kmeans)
 - [Regularization: LASSO and Ridge](#regularization-lasso-and-ridge)
@@ -34,6 +35,10 @@ My semester long capstone project was to develop an algorithm which automates th
 
 ## Python
 
+### Natural Language Processing
+**Skills**: Doc2Vec, NLTK, cosine similarity, bag of words   
+**Code**: [natural_language_processing.ipynb](./Python%20Projects/natural_language_processing.ipynb) 
+**Description**:   
 
 ### Ensemble Methods for Machine Learning
 **Skills**: Bootstrap Aggregation, Adaboost, Gradient Boosting   
