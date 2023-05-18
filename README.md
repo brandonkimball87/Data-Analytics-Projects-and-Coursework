@@ -2,10 +2,9 @@
 
 ## About
 
-Hi, my name is Brandon Kimball. I am currently in the final semester of the Masters of Science in Analytics program at The University of Alabama Huntsville (May 2023 graduation).
-I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
+Hi, my name is Brandon Kimball. I recently graduated with a Masters of Science in Analytics from The University of Alabama Huntsville (May 2023). I have two undergraduate degrees (BS in Biology and BA in Psychology) from The University of Alabama in Tuscaloosa.
 
-The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involves predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes, SVM, various ensemble methods and text mining. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
+The majority of my work is in R and Python, in addition to SQL. The major focus of my projects and coursework involved predictive analytics and machine learning. Specific algorithms include regression, clustering, CART, Random Forest, Naïve Bayes, SVM, various ensemble methods and text mining. Each of the examples below contain a file and description which showcases a homework, project or exam assignment where a certain machine learning or data analytics technique was used.
 
 My semester long capstone project was to develop an algorithm which automates the creation of capability matrices based on incoming requirement documents for a leading company in the defense industry. This project was done using Python and includes machine learning and natural language methods such as Doc2Vec, NLTK, cosine similarity, and bag of words. Ultimately, this capstone project was an incredible learning experience where I could apply the knowledge and skills gained throughout my master's program to develop a practical solution for a real-world problem.   
 
